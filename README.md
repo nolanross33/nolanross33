@@ -12,7 +12,7 @@ rather than a classroom, because that's what actually sticks.
   segmentation, and now a Terraform + k3s cluster layered on top — the same
   hardware serves both "detection engineering sandbox" and "IaC practice
   environment."
-- **Agent tooling for security data.** Built an MCP server that exposes
+- **Agent tooling for security data.** Built an MCP server that exposes my 
   NetWitness session/alert/incident data as structured tools for an LLM
   agent, wired into Docker's MCP Gateway. Less "wrap an API," more "figure
   out what an agent actually needs to reason well about detection data."

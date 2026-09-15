@@ -39,7 +39,7 @@ a presales technical validation.
   (vSphere provider) provisioning k3s nodes on my ESXi host, then RBAC,
   NetworkPolicies, and Secrets on the resulting cluster. Structured as a
   learning sequence, not just a config dump.
-- **[netwitness-mcp-server](https://github.com/nolanross33/netwitness-mcp-server)**
+- **[nw-homelab-mcp-server](https://github.com/nolanross33/nw-homelab-mcp-server)**
   — Dockerized MCP server exposing 9 tools for querying NetWitness sessions,
   alerts, and incidents from an LLM agent.
 

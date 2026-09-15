@@ -45,5 +45,4 @@ a presales technical validation.
 
 #### 📫 Reach out
 
-Open to connecting — feel free to open an issue on any repo above, or reach
-me through [LinkedIn](https://www.linkedin.com/in/nolanross).
+Open to connecting — feel free to open an issue on any repo above.

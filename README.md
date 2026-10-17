@@ -23,16 +23,6 @@ rather than a classroom, because that's what actually sticks.
 Protocol) servers` · `NetWitness / network detection & response` · `UniFi
 networking & VLAN segmentation` · `IAM` (OneLogin, JumpCloud) · `vSphere/ESXi`
 
-#### 💭 How I think about this
-
-RBAC, network segmentation, and least-privilege aren't new concepts to me —
-they're just IAM and detection-engineering thinking wearing a Kubernetes or
-Terraform costume. I'd rather spend the extra hour understanding *why*
-something is architected a certain way than memorize the syntax that makes
-it run. That's also why the repos below have more comments than the average
-homelab project — they're written the way I'd want to hand something off in
-a presales technical validation.
-
 #### 📌 Pinned
 
 - **[homelab-iac](https://github.com/nolanross33/homelab-iac)** — Terraform

@@ -5,9 +5,9 @@ that runs IT generalist → detection engineering → observability → presales
 I learn by building — most of what's pinned here came out of a home lab
 rather than a classroom, because that's what actually sticks.
 
-#### 🔭 What I'm working on
+#### 🔭 What I've got
 
-- **A real home lab, not a demo one.** ESXi host running a full NetWitness
+- **An ever-growing home lab...** ESXi host running a full NetWitness
   (network detection & response) deployment, UniFi networking with VLAN
   segmentation, and a few k3s clusters I use to sandbox and test things.
 - **Agent tooling for security data.** Built an MCP server that exposes my 

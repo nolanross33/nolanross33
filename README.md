@@ -9,9 +9,7 @@ rather than a classroom, because that's what actually sticks.
 
 - **A real home lab, not a demo one.** ESXi host running a full NetWitness
   (network detection & response) deployment, UniFi networking with VLAN
-  segmentation, and now a Terraform + k3s cluster layered on top — the same
-  hardware serves both "detection engineering sandbox" and "IaC practice
-  environment."
+  segmentation, and a few k3s clusters I use to sandbox and test things.
 - **Agent tooling for security data.** Built an MCP server that exposes my 
   NetWitness session/alert/incident data as structured tools for an LLM
   agent, wired into Docker's MCP Gateway. Less "wrap an API," more "figure

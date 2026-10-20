@@ -2,10 +2,9 @@
 
 Presales/Solutions Engineer in cybersecurity (CISSP, CCSK) with a background
 that runs IT generalist → detection engineering → observability → presales SE.
-I learn by building — most of what's pinned here came out of a home lab
-rather than a classroom, because that's what actually sticks.
+I learn by building — mostly through projects in my home lab.
 
-#### 🔭 What I've got
+####  What I've got
 
 - **An ever-growing home lab...** ESXi host running a full NetWitness
   (network detection & response) deployment, UniFi networking with VLAN
@@ -15,13 +14,13 @@ rather than a classroom, because that's what actually sticks.
   agent, wired into Docker's MCP Gateway. Less "wrap an API," more "figure
   out what an agent actually needs to reason well about detection data."
 
-#### 🌱 Technical domains
+####  Technical domains
 
 `Terraform` · `Kubernetes (k3s)` · `Python` · `Docker` · `MCP (Model Context
 Protocol) servers` · `NetWitness / network detection & response` · `UniFi
 networking & VLAN segmentation` · `IAM` (OneLogin, JumpCloud) · `vSphere/ESXi`
 
-#### 📌 Pinned
+####  Pinned
 
 - **[homelab-iac](https://github.com/nolanross33/homelab-iac)** — Terraform
   (vSphere provider) provisioning k3s nodes on my ESXi host, then RBAC,
@@ -31,6 +30,6 @@ networking & VLAN segmentation` · `IAM` (OneLogin, JumpCloud) · `vSphere/ESXi`
   — Dockerized MCP server exposing 9 tools for querying NetWitness sessions,
   alerts, and incidents from an LLM agent.
 
-#### 📫 Reach out
+####  Reach out
 
 Open to connecting — feel free to open an issue on any repo above.

@@ -1,18 +1,16 @@
 ### Hi, I'm Nolan
 
-Presales/Solutions Engineer in cybersecurity (CISSP, CCSK) with a background
-that runs IT generalist → detection engineering → observability → presales SE.
-I learn by building — mostly through projects in my home lab.
+I’m a cloud & cybersecurity presales/solutions engineer with a background in
+IT and detection engineering. I learn by building, mostly through projects
+in my home lab.
 
 ####  What I've got
 
 - **An ever-growing home lab...** ESXi host running a full NetWitness
   (network detection & response) deployment, UniFi networking with VLAN
   segmentation, and a few k3s clusters I use to sandbox and test things.
-- **Agent tooling for security data.** Built an MCP server that exposes my 
-  NetWitness session/alert/incident data as structured tools for an LLM
-  agent, wired into Docker's MCP Gateway. Less "wrap an API," more "figure
-  out what an agent actually needs to reason well about detection data."
+- **Agent tooling for security data.** Built an MCP server that gives an LLM
+  agent structured access to NetWitness session, alert, & incident data.
 
 ####  Technical domains
 
